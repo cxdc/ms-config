@@ -1,5 +1,5 @@
  server: 
   port: 8769
- application：
+ application： 
   title: 用于Spring Cloud
  
