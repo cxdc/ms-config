@@ -1,2 +1,5 @@
-server:
- port: 8777
+ server: 
+  port: 8769
+ application：
+  title: 用于Spring Cloud
+ 
